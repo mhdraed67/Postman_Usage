@@ -9,3 +9,9 @@ HERE POST,GET,PATH,DELETE IS USED TO ADD,UPADTE ETC TO THE DATASET
 HELPS IN SIMPLE UNDERSTANDING
 
 TO RUN: npm start
+
+"dependencies": {
+    "express": "^5.1.0",
+    "mongoose": "^8.16.0",
+    "nodemon": "^3.1.10"
+  }
